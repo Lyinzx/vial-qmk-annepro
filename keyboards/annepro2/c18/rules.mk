@@ -19,3 +19,12 @@ SRC = \
 	ap2_led.c \
 	protocol.c \
 	rgb_driver.c \
+
+# Unnecessary features 
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no 
+MUSIC_ENABLE = no
+AUDIO_ENABLE = no
+
